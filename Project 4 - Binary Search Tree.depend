@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1478751898 source:c:\users\bball\desktop\cs 2336\project 4 - binary search tree\main.cpp
+	"Node.h"
+	"BinarySearchTree.h"
+	<sstream>
+	<stdlib.h>
+	<cmath>
+
+1478622905 c:\users\bball\desktop\cs 2336\project 4 - binary search tree\node.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1478755918 source:c:\users\bball\desktop\cs 2336\project 4 - binary search tree\binarysearchtree.cpp
+	"BinarySearchTree.h"
+
+1478751143 c:\users\bball\desktop\cs 2336\project 4 - binary search tree\binarysearchtree.h
+	"Node.h"
+
+1478755918 source:c:\users\bball\desktop\cs 2336\project 4 - binary search tree\node.cpp
+	"Node.h"
+
